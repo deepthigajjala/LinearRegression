@@ -2,11 +2,13 @@
 
 
 ❤️❤️##BUSINESS PROBLEM❤️❤️
+  
   Jamboree has helped thousands of students like you make it to top colleges abroad. Be it GMAT, GRE or SAT, their unique problem-solving methods ensure maximum scores with minimum effort.
   They recently launched a feature where students/learners can come to their website and check their probability of getting into the IVY league college. This feature estimates the chances of graduate admission from an Indian perspective.
   Your analysis will help Jamboree in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. It will also help predict one's chances of admission given the rest of the variables.
 
 ❤️❤️##MY ANALYSIS❤️❤️
+
 1. I imported the data and checked dataset has 500 rows and 9 columns.
 2. I dropped umimportant columns. I Divided columns into discrete and continuus columns. For each discrete column I checked no.of unique values.
 3. I checked variation of all continuous columns with discrete columns.
